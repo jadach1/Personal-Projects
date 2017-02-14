@@ -1,0 +1,705 @@
+use,                     korzystac
+time,krotnie
+customs,obyczaje
+lazy,leniwy
+confirmed,potwierdzone
+have/possess, posiadac
+affiliation, przynaleznosci
+basic, podstawowe
+citizenship, obywatelstwo
+settlement,osiedlanie
+visit, zwiedac
+election, wyborczych
+impressions, wrazenia
+conditions, warunki
+causes, powoduje
+sure, jasne
+health care, opieki
+presence, obecnosci
+show/prove, wykazac
+submit/introduce, przedstawic
+worthily/according too, godnie
+treatment , leczenie
+destiny, przeznacenie
+level, poziomie
+to fear, lekac
+concerns, obawy
+director, rezyser
+to rise up, powstanie
+special/especially/particularly, szczegolne
+draw/gain/to benefit/to profit, czerpac
+necessarily, koniecnie
+grounds, powody
+main, glowne
+sentence/opinion, zdania
+broke out, wybuchlo
+celebration/to care, obchodow
+interview, wywiad
+said, powedzianne
+insurgents, powstancow
+awesome, nie samowite
+against him, poczet niego
+events, wydarzenia
+ancestry, przodkow
+reasons/causes, powod/powoduje
+previous, poprzedniego
+they contain, zawieraja
+started, rozpoczela
+directly, owprost
+declaration/faith, wyznanie
+continues, trwa
+incentive, motywacyjna
+affairs, sprawamie
+counter, przeciwny
+speech/statement, wystapienie
+unfortunately, niestety
+independence, niepodleglosci
+diary, dziennik
+posts, wypowiedzi
+cases, przypadkow
+acquaintance, znajomy
+i develop, rozwijam
+lodges, loze
+locker rooms, szatnie
+however, jednak
+e.g , na przyklad
+explains, wyjasnia
+responsible, odpowiedzialny
+I would like to, pragne
+average, srednia
+despite, mimo
+master, doskonalisz
+toppled, stoczyl
+vendor, sprzedawca
+I survive, przezyje
+useful, przydatne
+development, rozwoju
+constitute/to be/to pose, stanowic
+passes,  mija
+conscious, swiadomy
+At the same time/simultaneously, jednoczesnie
+Subconcious, podswiadomosc
+Met/fulfilled, spelnione
+show/to prove, wykazac
+save, oszczedic
+Astringent(Sharp or severe), sciagajace
+complain, narzekamy
+up to date, na biezaco
+if not, skoro nie
+i urge you, zachecam was
+angry, zdenerwowany
+appeal, spodoba
+fiance, narzeczona
+clearly, wyraznie
+because, poniewaz
+indeed, istotnie
+worry, przejmowac 
+relationship, zwiasku
+story, opowiadania
+summaries, streszczenia
+riddles, zagadka
+you go out, wyszliscie
+exaggeration, przesady
+intersection, skrzyzowania
+madness, szalenstwem
+exceptional, wyjatkowi
+basically, zasadzie
+betrayal,zdrada
+promise, obiecuje
+summarize,strescic
+intention/design/notion, zamiar
+tour, wycieczka
+expenses, wydatki
+substitute, podstawic
+help, poradzic
+beginners, poczatkujacy
+path, sciezka
+instead, zamiast 
+monsters, potworow
+entitled, pod tytulem
+ruthless, bezwzgledny
+honestly/frankly/candidly, szczerze
+way, sposob
+acquaintence, znajomy
+howerever, jednak
+e.g, na przyklad
+refreshed,  wyspany
+honest, ucziwy
+disgusting, obrzydliwy
+compulsary, obowiazkowym
+simplify, upraszczac
+worry, przejmujcie
+application, wniosku
+pictures, zdjeca
+still, nadal
+they think, uwazaja
+individual, poszczegolne
+assured, zapiewniony
+championship/Champion, mistrzostwo/mistrz
+this applied, odnosilo sie
+resettlement, przesedlenie
+population, ludnosc
+we compare, porownamy
+native, rodowity
+teaching, uczac
+created, stworzone
+get used to, przywyknac
+chants, intonuje
+overcome, przezwyciezyc
+allergie, uczuleni
+effective action, skuteczne dzialanie
+basically, ogolnie
+to grasp, ogarnac
+discard, zlewac
+especially, zlaszcza
+capabilities, mozliwosci
+convince/persuade, przekonac
+the heart, sedna
+failure 1, niepowodzenie
+failuer 2, porazki
+eternally, wiecznie
+correct/appropriate/right/propper, wlasciwe
+personal development, rozwoju osobistego
+glance, skrocie
+victory, zwyciestwo
+i endured, wytzymalem
+i sensed, wyczulem
+following/imitates, nasladuja
+crashes, wywala
+encounter 1, spotkanie
+comfort, pociecha
+you earn/to win/to rack up, zdobedziecie
+change/small, drobne
+general to specific, ogolu do szczegolu
+accurately, dokladnie
+benefits, korzysci
+cooperation, wspoldzialania
+i described/determine/evaluate, okreslilem
+they not maastered, nie opanowali
+weigh, odwazyc
+experience, doswiadczenie
+performs/ do, wykonuje
+easier, latwiejsze
+end of the period, koniec kropka
+cross, przekreslenie
+by me, wedlug mnie
+quite simply, dosc prosto
+brain, mozg
+joint actions, wspolne dzialania
+i wish you good luck, ja zycze wam powodzenia
+choices, wybory
+confess, spowiadac
+too, zbyt
+to leave/abandon/reduce, opuszczac
+before/by, przed/przez
+i decided, postanowilam
+ability, zdolnosci
+advice, porady
+saga, sadze
+investigation, zbadania
+more than, ponad
+volunteers, ochotnikow
+disappointed, rozczarowany
+correct, poprawny
+focus, skupic
+difference, roznica
+different, inny
+to report, zglaszac/zglosic
+to present oneself, zglaszac sie/zglosic sie
+angry, gniewac/rozgniewac sie
+to name, nazywac/nazwac
+to be named, nazywac sie 
+to be persuaded, namawial
+to want, chciec
+malnourished, niedozywionych
+you sneaky little theif, ty podstepny zlodziej
+tease,dokuczac
+forget, zapomnij
+lost interest, odechcialo sie
+decorated, urzadzona
+eating, jedzaca
+seperate, oddzielny
+food, zywnosc
+tool, narzedziem
+send, przeslac
+together, razem
+reached, doceiraly
+limited, ograniczona
+escape, ucieczki
+industry, przemyslem
+attitude, postawa
+prove, udowodnic
+proof, dowod 
+accomodate, pomieszczac
+imagination, wyobraznia
+squeeze, sciskac
+emotion, wzruszenie
+sympathy, wspolczucie
+to prize/value/appreciate, cenic/docenic
+appraise/evaluate/value/rate, ocenic
+overrate, przecenic
+no longer care for, odechciec sie
+have a mind to/long for/feel like, zachciec sie
+walk up to, dochodzic
+invade/walk till tired, nachodzic
+walk away from, odchodzic
+walkaround/about/come from, pochodzic 
+walk up to/draw near, podchodzic
+cross the street, przechodzic
+disprerse, rozchodzic sie
+escape/ evade, uchodzic
+walk out, wychodzic
+go by/walk over too, zachodzic
+informative, pouczajace
+concepts, pojecia
+i mentioned,wspomnialem
+observations, spostrzezenia
+based, oparte
+provided, warunkiem
+be careful, badz ostrozny
+listen, wysluchaj
+i pity you, wspolczuje wam
+however it was base, byl jednak oparte
+guessed,domyslacie sie
+revenge, zemsta
+lectures, wyklady
+dreams, marzenia
+kinked, zalamany
+surrendered, poddal
+surrender,poddanie sie
+i appreciated, docenilem
+hero, bohaterem
+accomplice, wspolnika
+give faith, dajecie wiare
+justice, sprawiedliwo
+vocabulary, slownictwo
+disgusting, ohydne
+deputized/substituted/stand in for, zastepowal
+eagerly,niecierpliwoscia
+loose, rozwiazany
+influence, wyplywu
+day, dniem
+i feel sorry for, uzalac sie
+i hate, nienawidze
+old enough/quite refreshed, dosc stara/dosc wyspany
+poison, zatruwamy
+will not be accepted/adopted, nie przyjety
+accept/adopt, przyac
+i am adopted, jestem przyjety
+to protect/screen/shelter, chronic
+seek shelter/take cover, chronic sie
+shetler/preserve/defend, ochronic
+protect/guard, uchronic
+praise/commend/boast, chwalic/pochwalic
+boast/brag, chwalic sie
+resolve, uchwalic
+speak highly/praise, wychwalic
+to bend/incline, chylic/nachylic
+lean forward, wychylic sie
+push aside/remove, uchylic
+to cut, pociac/ciac
+to pull/to draw near/append, ciagnac/pociagnac
+reach-tighten, dociagnac
+stretch-infuse, naciagnac
+merit, zaslugi
+to cheer/comfort/console/please, cieszyc/ucieszyc
+to withdraw/moveback/recall, cofac/cofnac
+backout/retire, wycofac sie
+charge, obciazona
+truancy, wagary
+until, az/az do
+properly/correctly, prawidlowo
+purge, czystki
+poignant, przejmujace
+sit down, usiadz/siadz
+sit back, rozsiadz
+take possession, posiadz
+negro, murzyna
+route, trasa
+heritage, dziedzictwo
+announce, oglosimy
+whata re you staring at, co ty gapisz nat
+rolled back, odwalil
+schedule, rozklad
+to hear from, do uslyszenia
+slow down, zwolnij
+airport, lotniska
+confident, przekonani
+airplane, samolot
+knwoledge, wiedzy
+cover with, obciagnac
+delay/put off, ociagnac sie
+withdraw something, odciagnac 
+pull up something, podciagnac 
+prolong/drag, przeciagnac
+pull towards/attract, przyciagnac 
+stretch/extend, rozciagnac sie
+pull/away/off/gather/cheat, sciagnac
+drag/move, uciagnac
+pull out something, wyciagnac
+drag/pull to/enlist, zaciagnac sie
+a thought, domyslalem
+i guessed, domyslilam
+be patient, badz czerpliwy
+i feel sorry for you 2, skoda mi ciebie
+substitute 2, zastepowac
+dependence, uzalam
+do not feel sorry about it, nie uzalaj sie na ten temat
+to suffer/bear/put up/tolerate/sustain, cierpiec/scierpiec
+detest eachother/not stand eachother, nie cierpiec sie/nie scierpiec sie
+atone/endure, odcierpiec
+suffer, pocierpiec
+bear/undergo, przecierpiec
+be affected/sustain a loss, ucierpiec
+suffer/endure/put up, wycierpiec
+around/on all sides/everywhere, naokolo
+to win/acquire/conquer/score/seize, zdobyc
+resolve 2, rozwiazac
+share, udostepnic
+to wait/to expect,czekac/zaczekac/nachekac sie 
+wait through/live to see, doczekac sie
+wait it out,odczekac 
+wait ofr a while, poczekac
+wait out, przeczekac
+anticipate, wyczekac
+comb hair, czesac/uczesac
+comb one's hair, poczesac/zaczesac sie
+comb up, podczesac
+smooth hair,przyczesac
+comb down, rozczesac
+to treat/entertain, czestowac/poczestowac
+treath eachother/help oneself/sample, czestowac sie/poczestowac sie
+treat/entertaint/enjoy oneself, uczestowac sie
+treat to, wyczestowac
+to feel smell, czuc/poczuc
+feel/be in a certain mood, czuc sie/poczuc sie
+feel, odczuc 
+foresee/anticipate, przeczuc 
+feel/experience, uczuc
+feel out/sense, wyczuc
+dwell/live/stay, przebywac
+to celan, czyscic/oczyscic
+clean oneself, czyscic sie/oczyscic sie
+clean/polish, poczyscic
+cleanse/purge, przeczyscic
+clean, wyczyscic
+to read, czytac/przeczytac
+read to the end, doczytac
+find out from reading, doczytac sie
+be tired of reading, naczytac sie
+have read one's fill, oczytac sie
+recite, odczytac
+delight in reading, rozczytac sie
+read in/decipher/makeout, wyczytac
+be engrossed in reading, zaczytac sie
+train/drill/practice, cwiczyc/przecwiczyc 
+train/exercise, cwiczyc sie/przecwiczyc sie
+give some practice/training, podcwiczyc
+practice for a while/do some training, poczwiczyc
+acquire some skill, wycwiczyc
+to give/provide, dawac/dac
+allow, dawac sie/dac sie
+post/send, nadac
+return/give back, oddac
+hand/pass/offer,podac
+offer oneself, podac sie
+surrender/let go, poddac
+submit, poddac sie
+feign/pretend, udac
+succeeds/apply to, udac sie
+exam/pass , zdac
+seems/in 3rd person , zdac sie
+spend/give/change, wydac
+seem appear, wydac sie
+determine/decide, decydowac/zdecydowac
+decide/make up ones mind, decydowac sie/zdecydowac sie
+settle/determine, zadecydowac
+whenever/ever/at any time, kiedykolwiek
+than, niz
+to tease/annoy/bother/pester/hurt, dokuczac/dokuczyc
+little, nieco
+all, wszelkie
+luck, szczescie
+booked/reserved, zarezerwowane
+changed, zmieniony
+double booked, podwojnie zarezerwowany
+to get/attain/receive/obtain/reach, dostawac/dostac
+get, dostawac sie/dostac sie
+reach/cross, przedostac sie
+stop/cease, przestac
+rescue/bring out, wydostac
+get out of/escape, wydostac sie
+stay over/remain/become, zostac
+stay/be left, zostac sie
+current/presently attending, obecne
+outstanding/late, zalegla.
+bend down, chylic sie/nachylic sie/ schylic
+bend back, odchylic
+deviate, odchylic sie
+bow/incline, pochylic sie
+bend, przechylic
+tend to, przechylic sie
+incline towards, przychylic
+be disposed, przychylic sie
+stoop, schylic sie
+to touch, dotykac/dotknac
+touch, dotykac sie/dotknac sie
+come across/come by, natknac sie
+stumble, potknac sie
+thrust out/show/rebuke, wytknac
+clog/plug, zatknac
+minority, mniejszosci
+spy, szpiegiem
+former, bylego
+Last, ciagnac sie/sciagnac sie
+To find out/to learn/get to know/inquire, dowiadywac sie/dowiedziec sie
+know/be aware of, wiedziec
+inquire, wywiadywac sie
+administer, zawiadywac
+objective/goal/purpose/target, cel
+doubt/question/query, watpliwosc 
+lurked,czailem
+lurk, przyczaic sie
+rip/tear, rozerwac
+paddle, wioslowac
+beautiful view, piekny widok
+above us, nad nami
+I longed for us,tesknilem za nas
+widened, wytrzeszczyl
+cloth, tkanine
+shams, oszusci
+their, ich
+i thought it will succeed, myslalem ze sie uda
+fuck/asshole, pierdolem
+i fucked, zjebalem
+cool, spoko
+quite a few, sporo
+below us, pod nami
+it's the law, jest to prawo
+any, wszelki
+withdraw, wycofac
+practical, praktycznie
+to function/operate/act/be active/work, dzialac
+act/produce an effect, podzialac
+function, zadzialac
+perform/accomplish/achieve, zdzlialac
+to advance/promote;be promoted, awansowac/zaawansowac
+go far ahead; further/career/be invloved, awansowac sie/zaawansowac sie
+to examine/scrutinize/inquire/investigate, badac/zbadac
+be examined, badac sie/zbadac sie
+find out, dobadac sie
+look over, pobadac
+examine, przebadac
+discover, wybadac
+to play/amuse oneself/enjoy oneself, bawic sie/zabawic sie
+amuse; entertain/ linger, bawic/zabawic
+cause; catch/cold/amuse oneself, nabawic/sie
+stay/babysit; play with, pobawic/sie
+cheer up/amuse, rozbawic
+amuse/oneself, ubawic/sie
+deliver/free, wybawic
+redeem/rescue, zbawic
+empty somthing, wychylic
+ I'm Thinking, Zastanawiam
+I wonder, Zastanawian sie
+Lead/drive/guide, Prowadzic
+Drive/carry, zawiezc
+Go/drive over/leave/drive down, pojechac
+to/towards/for/in the direction, ku
+bless, blogoslawi
+don't care, nie obchodzi
+take it easy, nie przejmuje sie
+past, przeszlosc
+express, wyrazania/wyrazic
+own, wlasnej/wlasny
+suspects,podejrzanych
+equal, rowne
+obligation, obowiazek
+to beat/hit, bic/pobic
+to fight, bic sie/pobic sie
+kill off/reach, dobic
+attain/contend for, dobic sie
+spank/beat up/load, nabic
+take away/repel/reflect, odbic
+bounce off, odbic sie
+conquer, podbic
+peirce/stab, przebic
+nail down, przybic
+break apart/smash/set up, rozbic
+beat/ram down, ubic
+strike, wybic
+kill, zabic
+beat down, zbic
+to run, biegnac/pobiegnac; biec/pobiec
+reach somewhere/something, dobiec/dobiegnac
+circulate, obiec/obiegnac
+run away, odbiec/odbiegnac
+run about, nabiec sie/nabeignac sie
+run up, podbiec/podbiegnac
+run accross, przebiec/przebiegnac
+run up/hasten/come up running, przybiec/przybiegnac
+take/branch/off, rozbiec sie/rozbiegnac sie
+run a distance/elapse, ubiec/ubiegnac
+contest for, ubiec sie/ubiegnac sie
+run out, wybiec/wybiegnac
+bar/intercept, zabiec/zabiegnac
+prevent, zapobiec/zapobiegnac
+to err/wander/stumble/roam, bladzic/zbladzic
+stray/mistake/blunder, pobladzic
+lose one's way/go astray, zabladzic
+only/scarcely/freshly/until, dopiero
+several times, parokrotnie
+Children, dziecinne
+Area,dziedziny
+I'll take him,ja go wezme
+Move/carry/transfer/shuft, przeniesc 
+Hard, cziezka
+I composed it, ja skladale to
+Diarrhea, sraczka/biegunka
+They got rid of/get rid of, pozbyli/pozbyc
+happen, wydarzyc
+property,wlasciwosc
+animal, zwierze
+coffin, trumnie
+shiny,blyszczajcy
+challenges, wyzwania/wyzwa
+Just/precisely/exactly/very,wlasnie
+except, wyjatkiem
+and not to mention, i nie mowiac
+creatures, stworzenia
+trust, zaufanie
+us, nami
+cooperation/teamwork, wspolprace
+towel, recznik
+with you, z wami
+positions, pozycji
+enjoyable/nice, przyemny/mil
+you dare, masz odwage
+courage, odwage
+shadow, cien
+early, wczesnie
+at least, przynajmniej
+stating, stwierdzajac
+statement, oswiadczenie
+shame, wstyd
+Mean/indicate/signify, oznaczac
+people/persons, osob/osoby
+they found, stwierdzili 
+choose, wybrac
+permissions, uprawnienia
+sacrifice, poswiecic
+supporrting, wspieranie
+gym, silownia
+understand, pojac
+old people dying, stary ludzie umieraja
+heavy, ciezka
+and not to mention, i nie mowiac
+mean/indicate/signify/mark, ozanaczac
+i moved the meat, ja przenioslem te mieso
+i'll feel better, ja bede czul lepiej
+accustomed, przywyklismy
+progress, postepy
+invention of mankind, wynalazek ludzkosci
+they invented/invent/guess, wymyslili/wymyslac/domyslac
+know/knowing/familiar, znac/znajac/znajacym
+newcomer/comer/arrival/incomer,przybysz
+newcomers, przybysze/przybyszami
+assimilated, zasymilwany
+resting, wypoczywajac
+funny, zabawna
+see/see for yuorself, przekonca sie/przekonaj sie
+it entirely, czalkowice
+simultaneously, rownoczesne
+arrange, urzadzac
+fly, polecimy
+suitable/right/adequate, opowiedni
+opportunity/occasion/chance, okazja/sposobnosc
+take off my shoes, zdjac buty
+usually, zreguly
+extremely/extraordinary, niezwykle
+get older, podroselm
+grew up, wychowalem sie
+cricket, swierszcz
+a player(mp3), odtwarzacz
+ordinary, zwyczajni
+custom/habit/practice, zwyczaj
+he is in the corner, on jest w rogu
+bored/boring, znudzony/nudny
+you want me to go there, chcesz mnie tam
+expect,oczekiwac/spodziewac sie
+plane landed, samolot wylandowal
+see for yourself, przekonaj sie
+appropriate, opowiednim
+suitable/right/adequate, opowiedni
+move yourself, ruszaj sie
+move(something)/moved, przenies/przeniosl
+states/they found, stwierdzeli/stwierdzili
+reward/rewards, nagrode, nagrody
+still/constantly/ever, wciaz
+migratory, wedrowny
+lovely, uroczych
+stunning, zachwycajacych
+three-week, trzytygodniowa
+he hated, nie znosila
+dangerously, niebezpiecznie
+indescribably, niewypowiedzianie
+unspeakable, niewypowiedziane
+fat, tluste
+to divide/share, dzielic/podzielic
+to be divided/shared, dzielic sie/ podzielic sie
+seperate/sever,oddzielic 
+ part with, oddzielic sie
+divide/seperate/part ,przedzielic 
+distribute/delegate/seperater, ozdzielic 
+part, rozdzielic sie
+confer/give, udzielic 
+frequent/communicate with, udzielic sie
+give out/assign, wydzielic
+makes, stwarza
+forbidden, zakazane
+concerning, przedmiocie
+lake, jezioro
+he brought/ he moved, przyniosl/ przeciosl
+animal and creature, zwierze/stworzenie
+give/donate/present, podarowac 
+mystery/secret/dark/know-how, tajemnica 
+story/legend/myth, basn 
+at the same time, zarazem
+rewarded, wynagrodzone
+the poor, biedacy
+will no become, nie stanie sie
+able to, stanie
+northern lights, zorzy polarnej
+journey/ we traveled, podroz/podrozowalismy
+i walk, spaceruje
+unexpected, niespodziewanie
+awareness, swiadomosc
+depends, zalezy
+i am walking, ja spaceruje
+nice old man, mile staruszek
+they recalled, wspominali
+sailor, marynarz
+recall, przypominam
+kierowac, direct
+take pleasure, czerpac przyjemnosc
+my favourite, moja ulubiona
+expected, spodziewac
+exhausted, wyczerpujacy
+i should have, powinienem byl
+propel/drift/boost, napedzac
+reality, rzecywistosci
+indescribably, niewypowiedzianie
+roots, korzenia
+believe, wierzyc
+something you cannot see that vendors have in the back, na zapleczu
+available, dostepne
+either way, tak czy inaczej
+indifferent, obojente
+society/community, spolecznosci
+on the other hand, od kolei
+pen, dlugopis
+i have less time, mam mniej czasu
+hurt, skaleczyc
+injury lawyer/laywer, Prawnik/prawnik
+decent, porzadnej
+enacted, uchwalilo
